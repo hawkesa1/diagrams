@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T11:37:10.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="YdXH2jAsLMbKmcmqAo3K" type="github">
-  <diagram name="Page-1" id="bccmhKBkTmMlHxBpdR8L">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-09-14T18:38:39.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iEiiDl9Q8sTtK14_cVE1" version="21.7.5" type="github">
+  <diagram name="WireFrame" id="bccmhKBkTmMlHxBpdR8L">
+    <mxGraphModel dx="1153" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KSA0EGbciSJVWhRLIgAe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="320" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KSA0EGbciSJVWhRLIgAe-2" value="Scrollux.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KSA0EGbciSJVWhRLIgAe-3" value="Topics&lt;br&gt;&lt;br&gt;Countries&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;UK&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;US&lt;br&gt;Celebrities&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="250" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
